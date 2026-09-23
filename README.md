@@ -1,2 +1,9 @@
-# xiqiguguai-uploader
-曦奇古怪 Android App releases and privacy information. 個人影片上傳工具。
+# 曦奇古怪
+
+個人使用的 Android 影片傳送 App 與 Windows 影片工作站。
+
+手機選取影片後，透過 Google Drive 中轉至自己的電腦，保留原片並上傳到本人授權的 YouTube 頻道。也可將影片複製至電腦的待上傳資料夾。自動上傳採私人可見性；檔案內容雜湊用於避免重複傳送。
+
+此發布倉庫只提供 App 安裝檔、更新資訊及產品說明，不包含影片、授權憑證、配對資料或工作站資料庫。Android 更新需由使用者確認。
+
+[隱私說明](privacy.html)
